@@ -1,7 +1,26 @@
 # flysystem
 Flysystem is a file storage library for PHP. It provides one interface to interact with many types of filesystems. When you use Flysystem, you're not only protected from vendor lock-in, you'll also have a consistent experience for which ever storage is right for you.
 You can use Flysystem sftp adaptor for php. You can use this in any framework using composer installation. (Core Php,Codeigniter ,Laravel,PHP,Symphony YII ETC).
+Getting Started
+New in V2: What it new in Flysystem V2?
+Architecture: Flysystem's internal architecture
+Flysystem API: How to interact with your Flysystem instance
+Upgrade to V2: How to upgrade your Flysystem V1 instance to V2
+Commonly-Used Adapters
+AsyncAws S3
+AWS S3
+Local
+Memory
+Third party Adapters
+Gitlab
+Google Drive (using regular paths)
+You can always create an adapter yourself.
 
+Security
+If you discover any security related issues, please email info@frankdejonge.nl instead of using the issue tracker.
+
+Enjoy
+Oh, and if you've come down this far, you might as well follow me on twitter.
 Flysystem Filesystem Abstraction for PHP (PHP library).
 ```
 https://flysystem.thephpleague.com/v2/docs/
