@@ -1,6 +1,7 @@
 # flysystem
 Flysystem is a file storage library for PHP. It provides one interface to interact with many types of filesystems. When you use Flysystem, you're not only protected from vendor lock-in, you'll also have a consistent experience for which ever storage is right for you.
-You can use Flysystem sftp adaptor for php. You can use this in any framework using composer installation.
+You can use Flysystem sftp adaptor for php. You can use this in any framework using composer installation. (Core Php,Codeigniter ,Laravel,PHP,Symphony YII ETC).
+
 Flysystem Filesystem Abstraction for PHP (PHP library).
 ```
 https://flysystem.thephpleague.com/v2/docs/
